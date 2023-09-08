@@ -1,1 +1,2 @@
-new beginning.
+new beginning
+checking merge conflict.
